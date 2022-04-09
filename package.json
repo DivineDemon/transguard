@@ -30,7 +30,6 @@
     "node": "16.14.0"
   },
   "devDependencies": {
-    "colors": "^1.4.0",
     "dotenv": "^16.0.0",
     "nodemon": "^2.0.15"
   }
